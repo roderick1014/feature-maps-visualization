@@ -20,3 +20,5 @@
 
 #### **- 17th layer -**
 ![17th_layer](https://user-images.githubusercontent.com/73574008/172123366-63b93427-a10f-4396-93bf-cf58d393e93f.png)
+
+#### **We can observe that the features / context become more and more incomprehensible in the deeper layers.**
