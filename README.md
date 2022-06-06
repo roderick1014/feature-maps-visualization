@@ -4,7 +4,10 @@
 #### **Framework: Tensorflow**
 
 #### **- Input image -**
-![cat](https://user-images.githubusercontent.com/73574008/172123499-42147e7f-c822-4d0e-8460-09b001fb8ea3.jpg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73574008/172123499-42147e7f-c822-4d0e-8460-09b001fb8ea3.jpg">
+</div>
+
 
 #### **- 2th layer -**
 ![2th_layer](https://user-images.githubusercontent.com/73574008/172123020-a25c76c9-812e-44c3-85d6-ffa291afa0d7.png)
